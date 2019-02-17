@@ -2,14 +2,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550438364222,
             "changeTime": 1550438364222,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550438364222,
             "changeTime": 1550438364222,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550439452256,
             "changeTime": 1550439452256,
             "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550438364238,
             "changeTime": 1550438364238,
             "contentHash": "2c5e18a21d93cc65cbd4c02cdff5cfa9a006529a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550438364223,
             "changeTime": 1550438364223,
             "contentHash": "369ecd557628cb7afa33208e5794977627cf1dd9",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt\\GenericEvt.evt",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt\\GenericEvt.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 114,
             "modifiedTime": 1550438364223,
             "changeTime": 1550438364223,
             "contentHash": "12c7bb329427474a7aaa3c03cfcdaf7f8eca7818",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +92,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt\\GenericEvt.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt\\GenericEvt.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 305,
             "modifiedTime": 1550438364223,
             "changeTime": 1550438364223,
             "contentHash": "265970dcef52461c21b39b981b84ca5d1e309bd8",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +107,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550438364228,
             "changeTime": 1550438364228,
             "contentHash": "67b1049f103d87284b41a9603d081cbdfd013a30",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +122,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 214,
             "modifiedTime": 1550438364224,
             "changeTime": 1550438364224,
             "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,29 +137,28 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.cmp",
             "isDirectory": false,
+            "size": 348,
+            "modifiedTime": 1550441943146,
+            "changeTime": 1550441943146,
+            "contentHash": "d5eb5725e62f4430158ec8e3872c811c25d3c575",
             "isMetadataFile": false,
-            "size": 764,
-            "modifiedTime": 1550438364224,
-            "changeTime": 1550438364224,
-            "contentHash": "41e09c641e167960153b08681c6353dfc0b12d9a",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 249,
             "modifiedTime": 1550438364225,
             "changeTime": 1550438364225,
             "contentHash": "f957a024efcc4eb42336ca201325c70c2c60335d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +166,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.css",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 12,
             "modifiedTime": 1550438364226,
             "changeTime": 1550438364226,
             "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +181,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.design",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1550438364226,
             "changeTime": 1550438364226,
             "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +196,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 667,
             "modifiedTime": 1550438364227,
             "changeTime": 1550438364227,
             "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,29 +211,28 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridController.js",
             "isDirectory": false,
+            "size": 1265,
+            "modifiedTime": 1550441948733,
+            "changeTime": 1550441948733,
+            "contentHash": "6b69aa2c7d9cfbd21cb97f467f2f00e988cfeb7a",
             "isMetadataFile": false,
-            "size": 2231,
-            "modifiedTime": 1550438364227,
-            "changeTime": 1550438364227,
-            "contentHash": "3f223327dee1dec5dc79a174438f3e3746d8b12b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1550438364228,
             "changeTime": 1550438364228,
             "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +240,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 55,
             "modifiedTime": 1550438364228,
             "changeTime": 1550438364228,
             "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +255,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550438364233,
             "changeTime": 1550438364233,
             "contentHash": "9cb7358b0534ab8160ba0767100055faaf7883ce",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +270,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 214,
             "modifiedTime": 1550438364229,
             "changeTime": 1550438364229,
             "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,14 +285,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2494,
             "modifiedTime": 1550438364229,
             "changeTime": 1550438364229,
             "contentHash": "213621f5c8fea248eddbc2a42edcaa69abc39968",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +300,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 245,
             "modifiedTime": 1550438364230,
             "changeTime": 1550438364230,
             "contentHash": "acf8d5e2e8f3bccfe774e4bef6692da2f5e18aa5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,14 +315,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.css",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 12,
             "modifiedTime": 1550438364231,
             "changeTime": 1550438364231,
             "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -332,14 +330,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.design",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1550438364231,
             "changeTime": 1550438364231,
             "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -347,14 +345,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 667,
             "modifiedTime": 1550438364232,
             "changeTime": 1550438364232,
             "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -362,14 +360,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1055,
             "modifiedTime": 1550438364232,
             "changeTime": 1550438364232,
             "contentHash": "46d31ee4b0026197ff30cc0629510b2e91c3aec9",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -381,25 +379,24 @@
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 7593,
-            "modifiedTime": 1550438364233,
-            "changeTime": 1550438364233,
-            "contentHash": "89dd905cf731c88f635af0494509d0ed75d722b5",
+            "size": 7648,
+            "modifiedTime": 1550442336996,
+            "changeTime": 1550442336996,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "d13f8210740e3baeefdca2f5388d8b1aab218a7b"
         }
     ],
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 55,
             "modifiedTime": 1550438364233,
             "changeTime": 1550438364233,
             "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -407,14 +404,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550438364238,
             "changeTime": 1550438364238,
             "contentHash": "8120fdac3223290e6e3a149b41447808f22bbc89",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -422,14 +419,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 214,
             "modifiedTime": 1550438364234,
             "changeTime": 1550438364234,
             "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -437,14 +434,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3321,
             "modifiedTime": 1550438364235,
             "changeTime": 1550438364235,
             "contentHash": "44f28ce39947124562f9b288efd46bcf1fb69fec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -452,14 +449,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 233,
             "modifiedTime": 1550438364235,
             "changeTime": 1550438364235,
             "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -467,14 +464,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.css",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1550438364236,
             "changeTime": 1550438364236,
             "contentHash": "860648bec5614ca197c740edac19779e13ca2181",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -482,14 +479,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.design",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1550438364236,
             "changeTime": 1550438364236,
             "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -497,14 +494,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 667,
             "modifiedTime": 1550438364237,
             "changeTime": 1550438364237,
             "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -512,14 +509,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1348,
             "modifiedTime": 1550438364237,
             "changeTime": 1550438364237,
             "contentHash": "7f15c28ccc86844174382f8a94fde3723c46742f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -527,14 +524,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 9,
             "modifiedTime": 1550438364238,
             "changeTime": 1550438364238,
             "contentHash": "df82fea2b0d000aaead34d84a9d4fd2fefca1e34",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -542,14 +539,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 55,
             "modifiedTime": 1550438364238,
             "changeTime": 1550438364238,
             "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -557,14 +554,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550438364243,
             "changeTime": 1550438364243,
             "contentHash": "718356861d94fbd1e7599c982f2723f17077dc48",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -572,14 +569,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 214,
             "modifiedTime": 1550438364239,
             "changeTime": 1550438364239,
             "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -587,14 +584,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1568,
             "modifiedTime": 1550438364239,
             "changeTime": 1550438364239,
             "contentHash": "456dfa6c00d3ca693417bdeb183eec7923d2edf5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -602,14 +599,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 233,
             "modifiedTime": 1550438364240,
             "changeTime": 1550438364240,
             "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -617,14 +614,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.css",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 12,
             "modifiedTime": 1550438364240,
             "changeTime": 1550438364240,
             "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -632,14 +629,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.design",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1550438364241,
             "changeTime": 1550438364241,
             "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -647,14 +644,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 667,
             "modifiedTime": 1550438364241,
             "changeTime": 1550438364241,
             "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -662,14 +659,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 64,
             "modifiedTime": 1550438364242,
             "changeTime": 1550438364242,
             "contentHash": "0977288192410cc84fe60fcce4d02602c74318f6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -677,14 +674,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 44,
             "modifiedTime": 1550438364242,
             "changeTime": 1550438364242,
             "contentHash": "d0b817b1ed38bbf663e8e0e2f23331837cfca3a4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -692,14 +689,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 55,
             "modifiedTime": 1550438364243,
             "changeTime": 1550438364243,
             "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -707,14 +704,14 @@
     [
         "C:\\SFDX_Projects\\treegridsearch",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX_Projects\\treegridsearch",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550438364264,
             "changeTime": 1550438364264,
             "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }

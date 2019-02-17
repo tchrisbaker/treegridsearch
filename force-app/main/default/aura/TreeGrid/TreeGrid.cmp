@@ -1,0 +1,59 @@
+<aura:component >
+ 
+  <aura:attribute name="dataRows" type="Object" access="PRIVATE" />
+  <aura:attribute name="columns" type="List" description="list of strings representing the columns" />
+  <aura:attribute name="search" type="string" description="the search text from the user" />
+  <aura:attribute name="msg" type="string" description="used to display a message to the user" />
+  <aura:attribute name="displayMsg" type="boolean" default="false" description="used to determine whether to display messages to the user" />
+
+  <!-- Aura Method to load data -->
+  <aura:method name="loadData" description="aura method  ">
+      <aura:attribute name="data" type="object" />
+  </aura:method>
+  
+  <!-- event for when a user clicks on a row to expand or collapse it -->
+  <aura:handler name="treeGridEvt" event="c:GenericEvt" action="{!c.onTreeGridEvt}"/>    
+  <aura:if isTrue="{! v.displayMsg }">           
+      <ui:message title="Success" severity="success" closable="true">
+        {!v.msg}
+      </ui:message>            
+  </aura:if>
+
+  <!-- search box -->
+  <div onkeyup="{!c.onSearchChange}">
+    <lightning:input aura:id="ip" type="string" label='Search by name and presse Enter' name="search" 
+        placeholder="Search"
+        value="{!v.search}" onchange="{!c.onSearchChange}" /> 
+  </div>
+        
+  <!-- show the data tree grid -->
+  <table aria-multiselectable="true" class="slds-table slds-table_bordered slds-table_edit slds-table_fixed-layout slds-table_resizable-cols slds-tree slds-table_tree" role="treegrid">
+    <!-- the header columns -->
+    <thead>
+      <tr class="slds-line-height_reset">
+        <aura:iteration items="{!v.columns}" var="column">
+          <c:TreeGridHeader headerName="{!column}" />
+        </aura:iteration>
+      </tr>
+    </thead>
+    <tbody >     
+      <!-- show each row -->   
+      <aura:iteration  items="{!v.dataRows}" var="rows">
+        <aura:iteration items="{!rows}" var="row">
+          <c:TreeGridData
+            aura:id="allRows"
+            id="{!row.id}"
+            iconName="{!row.iconName}"
+            rendered="{!row.rendered}"
+            hasChildren="{!row.hasChildren}"
+            name="{!row.name}"
+            columns="{!v.columns}"
+            data="{!row}"
+            level="{!row.level}"
+            linkName="{!row.linkName}"
+            style="{!row.style}"/>
+        </aura:iteration>
+      </aura:iteration>
+    </tbody>
+  </table>
+</aura:component>

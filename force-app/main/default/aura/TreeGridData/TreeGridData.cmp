@@ -1,0 +1,58 @@
+<aura:component >
+     <aura:attribute name="iconName" type="string" default="utility:chevronright" description="the icon for the row" />
+    
+     <aura:attribute name="columns" type="string[]" description="list of column names"  />
+     <aura:attribute name="level" type="integer" default="1" description="controls how the row is indented" />
+     <aura:attribute name="linkName" type="string" default="" description="used to link to a record in Dalesforce" />
+     <aura:attribute name="name" type="string" default="1" description="the name of this row for the first column" />
+     <aura:attribute name="data" type="object" description="data to display"  />
+     <aura:attribute name="rendered" type="boolean" default="true" description="indicates whether to show this row" />
+     <aura:attribute name="isExpanded" type="boolean" default="true" description="indicates whether this row is expanded" />
+     <aura:attribute name="_data" type="object" access="PRIVATE" description="data that is used internally and not to be set from any other component"  />
+     <aura:attribute name="style" type="string" default="normal" description="the style for this row" />
+     <aura:attribute name="hasChildren" type="boolean" default="false" description="indicates whether this row has children"/>
+	 <aura:attribute name="id" type="string" description="an id for this row - should be unique" />
+
+
+     <!-- event that gets sent when a user clicks to expand or collapse this row-->
+     <aura:registerEvent name="treeGridEvt" type="c:GenericEvt"/>
+
+     <!-- Initialize -->
+     <aura:handler name="init" value="{!this}" action="{!c.init}" />
+
+     <!-- if the rendered flag is true then render this -->
+     <aura:renderIf  isTrue="{!v.rendered}" >
+     <tr aura:id="dataRow" 
+        aria-expanded="true" 
+        aria-level="{!v.level}" 
+        aria-posinset="2" 
+        aria-selected="false" 
+        aria-setsize="4" 
+        class="slds-hint-parent">
+            <th class="{! 'slds-tree__item' + ' ' + v.style}" data-label="Account Name" scope="row">
+                <aura:renderIf isTrue="{!v.hasChildren == true}">
+                    <button class="slds-button slds-button_icon slds-button_icon slds-button_icon-x-small slds-m-right_x-small" 
+                        aria-hidden="true" 
+                        tabindex="-1" 
+                        title="{!v.name}" 
+                        onclick="{! c.onExpansionButtonPress }">     
+                         <lightning:icon 
+                            iconName="{!v.iconName}" 
+                            size="x-small" 
+                            alternativeText=""/>
+                        <span class="slds-assistive-text"> </span>
+                    </button>
+                </aura:renderIf>
+                <div class="slds-truncate" title="">
+                    <a href="{!v.linkName}" tabindex="-1">{!v.name}</a>
+                </div>
+            </th>
+            
+            <aura:iteration items="{!v._data}" var="d">
+                <td class="{!v.style}" data-label="{!d}" role="gridcell">
+                    <div class="slds-truncate" title="{!d}">{!d}</div>
+                </td>                
+            </aura:iteration>
+        </tr>
+    </aura:renderIf>
+</aura:component>

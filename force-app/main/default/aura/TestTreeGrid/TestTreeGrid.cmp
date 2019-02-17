@@ -1,0 +1,13 @@
+<aura:component  
+	implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,force:lightningQuickAction" access="global" >
+
+    <aura:attribute name="gridData" type="Object" access="PRIVATE"  />
+    <aura:attribute name="records" type="Object" access="PRIVATE" />
+    <aura:attribute name="objectName" type="string" description="locatoin, account or service" />
+    <aura:attribute name="recId" type="string" default="{!v.recordId}" description="record id" />
+    <aura:attribute name="searchTerm" type = "string"  />
+
+    <aura:handler name="init" value="{!this}" action="{!c.init}" />
+
+    <c:TreeGrid aura:id="tree" columns="['Name', 'Type', 'Email', 'Phone', 'Mobile']" />
+</aura:component>

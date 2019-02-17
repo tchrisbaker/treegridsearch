@@ -1,47 +1,52 @@
 ({
+	// get data recursively 
 	getData : function(component, event, helper, columns, d, level, rows, parent, number) {
 		var row = {};
-	 	for (var c in columns) {
-	    //console.log(columns[c]);
-	     var columnName = columns[c];
-	     if (columnName) {
-	       columnName = columnName.toLowerCase();  
-	       row[columnName] = d[columnName] ;
-	     }
-	  }
-	  row.level = level;
-	  if (d["_children"]) {
-	  	row.hasChildren = true;
-	  }
-	  else {
-	  	row.hasChildren = false;
-	  }
-	  row.linkName = d["linkName"];
-	  row.style='normal';
-	  row.iconName= 'utility:chevronright';
-	  row.isExpanded = true;
-	  row.rendered=true;
-	  row.parent = parent;
-	  row.id = Math.floor( Math.random() * Math.floor(20000) );
-	  rows.push(row);
-	  //console.log('------- ' + JSON.stringify(rows));
-	  if (d["_children"]) {
-	    level ++;
-	    for (var a in d["_children"] ) {
-	      helper.getData(component, event, helper, columns, d["_children"][a], level, rows, row, number + 1);
-	    }
-	  }
-
-	  return rows;
-	  
+		// iterate through the columns and match the column name to the name of the JSON row
+	 	for (var c in columns) {			
+			var columnName = columns[c];
+			if (columnName) {
+				columnName = columnName.toLowerCase();			
+				row[columnName] = d[columnName] ;
+	     	}
+		}
+		// set the level
+		row.level = level;
+		// set children true/false
+		if (d["_children"]) {
+			row.hasChildren = true;
+	  	}
+		else {
+			row.hasChildren = false;
+		}
+		// set the linkname
+		row.linkName = d["linkName"];
+		// set the style to normal
+		row.style='normal';
+		// set the icon to  >
+		row.iconName= 'utility:chevronright';
+		// set parent node
+		row.parent = parent;
+		// set the id randomly (used for searching)
+		row.id = Math.floor( Math.random() * Math.floor(20000) );
+		// add the row to the list
+		rows.push(row);	 
+		// if this has children then recursively call it again
+		if (d["_children"]) {
+			level ++;
+			for (var a in d["_children"] ) {
+				helper.getData(component, event, helper, columns, d["_children"][a], level, rows, row, number + 1);
+			}
+		}
+		return rows;	  
 	},
+	// called when a row is expanded (via Component Event)
 	expand : function(component,event,helper, level, name, isExpanded) {
 		var names = [];
-		var  dataRows = component.get('v.dataRows');
-		//console.log('======= isExpanded ' + isExpanded);
-        //console.log('dataRows ' + JSON.stringify (dataRows) );
-		for (var dataRow in dataRows) {
-        	
+		var  dataRows = component.get('v.dataRows');		
+		
+		for (var dataRow in dataRows) {        	
+		
         	var dataRow = dataRows[dataRow];
         	for (var data in dataRow) {
         		if (dataRow[data].id === name) {
@@ -90,6 +95,7 @@
         }
         component.set('v.dataRows', dataRows);
 	},
+	// called when the user searches - highlight in yellow
 	search : function(component, event, helper, searchTerm, number) {
 		var found = 0;
 		var path = [];
@@ -143,6 +149,7 @@
 		component.set('v.dataRows', dataRows);
 
 	},
+	// clear out search results when the search box is blanked out
 	clearSearchResults : function(component, event, helper) {
 		var  dataRows = component.get('v.dataRows');
 		for (var dataRow in dataRows) {			    	
@@ -154,6 +161,7 @@
 	    component.set('v.dataRows', dataRows);
 	    component.set('v.displayMsg', false);
 	},
+	// recursivley search parents so they can be highlighted in green
 	searchId : function(component, event, helper, searchTerm, path) {
 		
 		console.log('searching for ' + searchTerm);
@@ -186,24 +194,21 @@
         resultsToast.setParams({ "title": title, "message": message , mode: mode, 'type' : type}); 
         resultsToast.fire(); 
 	},
+	// load the data into the grid by calling getData which then calls itself recursively
 	loadDataIntoGrid : function(component, event, helper) {
 		var dataRows = [];
 		var params = event.getParam('arguments');
 		var columns = component.get('v.columns');
-        if (params) {
-        	//console.log('---- **** ' + JSON.stringify(params.data));
+        if (params) {        	
             var data = params.data;
-            var level = 1;
-			//myFunction(data[0]);
+            var level = 1;			
 			for (var d in data ) {
-			  dataRows.push( helper.getData(component, event, helper, columns, data[d], level, [], {}, 0) );
-			  //console.log('********** ' + JSON.stringify(dataRows));
+			  dataRows.push( helper.getData(component, event, helper, columns, data[d], level, [], {}, 0) );			  
 			}
-
 			for (var dataRow in dataRows) {			    	
 		    	var dataRow = dataRows[dataRow];
 		    	for (var data in dataRow) {
-		    		if (dataRow[data].level===1) {
+		    		if (dataRow[data].level === 1) {
 		    			dataRow[data].rendered=true;
 		    			dataRow[data].isExpanded=false;
 		    		}

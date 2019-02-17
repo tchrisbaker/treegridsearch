@@ -1,0 +1,1337 @@
+[
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364222,
+            "changeTime": 1550438364222,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364222,
+            "changeTime": 1550438364222,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364263,
+            "changeTime": 1550438364263,
+            "contentHash": "04cc7668fe0f9af0c690608af1efd2417b065923",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364238,
+            "changeTime": 1550438364238,
+            "contentHash": "2c5e18a21d93cc65cbd4c02cdff5cfa9a006529a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364223,
+            "changeTime": 1550438364223,
+            "contentHash": "369ecd557628cb7afa33208e5794977627cf1dd9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt\\GenericEvt.evt",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt\\GenericEvt.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 114,
+            "modifiedTime": 1550438364223,
+            "changeTime": 1550438364223,
+            "contentHash": "12c7bb329427474a7aaa3c03cfcdaf7f8eca7818",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt\\GenericEvt.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\GenericEvt\\GenericEvt.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 305,
+            "modifiedTime": 1550438364223,
+            "changeTime": 1550438364223,
+            "contentHash": "265970dcef52461c21b39b981b84ca5d1e309bd8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364228,
+            "changeTime": 1550438364228,
+            "contentHash": "67b1049f103d87284b41a9603d081cbdfd013a30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1550438364224,
+            "changeTime": 1550438364224,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 764,
+            "modifiedTime": 1550438364224,
+            "changeTime": 1550438364224,
+            "contentHash": "41e09c641e167960153b08681c6353dfc0b12d9a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 249,
+            "modifiedTime": 1550438364225,
+            "changeTime": 1550438364225,
+            "contentHash": "f957a024efcc4eb42336ca201325c70c2c60335d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1550438364226,
+            "changeTime": 1550438364226,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1550438364226,
+            "changeTime": 1550438364226,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGrid.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1550438364227,
+            "changeTime": 1550438364227,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2231,
+            "modifiedTime": 1550438364227,
+            "changeTime": 1550438364227,
+            "contentHash": "3f223327dee1dec5dc79a174438f3e3746d8b12b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550438364228,
+            "changeTime": 1550438364228,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TestTreeGrid\\TestTreeGridRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1550438364228,
+            "changeTime": 1550438364228,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364233,
+            "changeTime": 1550438364233,
+            "contentHash": "9cb7358b0534ab8160ba0767100055faaf7883ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1550438364229,
+            "changeTime": 1550438364229,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2494,
+            "modifiedTime": 1550438364229,
+            "changeTime": 1550438364229,
+            "contentHash": "213621f5c8fea248eddbc2a42edcaa69abc39968",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 245,
+            "modifiedTime": 1550438364230,
+            "changeTime": 1550438364230,
+            "contentHash": "acf8d5e2e8f3bccfe774e4bef6692da2f5e18aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1550438364231,
+            "changeTime": 1550438364231,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1550438364231,
+            "changeTime": 1550438364231,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGrid.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1550438364232,
+            "changeTime": 1550438364232,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1055,
+            "modifiedTime": 1550438364232,
+            "changeTime": 1550438364232,
+            "contentHash": "46d31ee4b0026197ff30cc0629510b2e91c3aec9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 7593,
+            "modifiedTime": 1550438364233,
+            "changeTime": 1550438364233,
+            "contentHash": "89dd905cf731c88f635af0494509d0ed75d722b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGrid\\TreeGridRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1550438364233,
+            "changeTime": 1550438364233,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364238,
+            "changeTime": 1550438364238,
+            "contentHash": "8120fdac3223290e6e3a149b41447808f22bbc89",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1550438364234,
+            "changeTime": 1550438364234,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3321,
+            "modifiedTime": 1550438364235,
+            "changeTime": 1550438364235,
+            "contentHash": "44f28ce39947124562f9b288efd46bcf1fb69fec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1550438364235,
+            "changeTime": 1550438364235,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550438364236,
+            "changeTime": 1550438364236,
+            "contentHash": "860648bec5614ca197c740edac19779e13ca2181",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1550438364236,
+            "changeTime": 1550438364236,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridData.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1550438364237,
+            "changeTime": 1550438364237,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1348,
+            "modifiedTime": 1550438364237,
+            "changeTime": 1550438364237,
+            "contentHash": "7f15c28ccc86844174382f8a94fde3723c46742f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1550438364238,
+            "changeTime": 1550438364238,
+            "contentHash": "df82fea2b0d000aaead34d84a9d4fd2fefca1e34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridData\\TreeGridDataRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1550438364238,
+            "changeTime": 1550438364238,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364243,
+            "changeTime": 1550438364243,
+            "contentHash": "718356861d94fbd1e7599c982f2723f17077dc48",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1550438364239,
+            "changeTime": 1550438364239,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1568,
+            "modifiedTime": 1550438364239,
+            "changeTime": 1550438364239,
+            "contentHash": "456dfa6c00d3ca693417bdeb183eec7923d2edf5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1550438364240,
+            "changeTime": 1550438364240,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1550438364240,
+            "changeTime": 1550438364240,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1550438364241,
+            "changeTime": 1550438364241,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeader.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1550438364241,
+            "changeTime": 1550438364241,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1550438364242,
+            "changeTime": 1550438364242,
+            "contentHash": "0977288192410cc84fe60fcce4d02602c74318f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1550438364242,
+            "changeTime": 1550438364242,
+            "contentHash": "d0b817b1ed38bbf663e8e0e2f23331837cfca3a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\aura\\TreeGridHeader\\TreeGridHeaderRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1550438364243,
+            "changeTime": 1550438364243,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364245,
+            "changeTime": 1550438364245,
+            "contentHash": "e721501955fab599d590b9ac81ab1c24ed324efd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\flexipages\\Account.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\flexipages\\Account.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 764,
+            "modifiedTime": 1550438364244,
+            "changeTime": 1550438364244,
+            "contentHash": "5ee50320ab2d5912fd231ed1eb03f74b1e8df0b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7684,
+            "modifiedTime": 1550438364244,
+            "changeTime": 1550438364244,
+            "contentHash": "7482dc4d9505afa39dc976ac9387ca7df8aa164b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6928,
+            "modifiedTime": 1550438364245,
+            "changeTime": 1550438364245,
+            "contentHash": "727af7029fdfd8e32f108d302b22c5f8b6744a43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364246,
+            "changeTime": 1550438364246,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364246,
+            "changeTime": 1550438364246,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364247,
+            "changeTime": 1550438364247,
+            "contentHash": "82a5078765c2f1122397f2a823a7250f80f7bbdb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4015,
+            "modifiedTime": 1550438364247,
+            "changeTime": 1550438364247,
+            "contentHash": "ce76cd0fd4ca479ba795a32043db082f198a6409",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364262,
+            "changeTime": 1550438364262,
+            "contentHash": "fc084546f56879d9a97e6e4367f2abae2a1035f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1550438364248,
+            "changeTime": 1550438364248,
+            "contentHash": "3c124b31608f563ada6bd99255726d46083db218",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 234,
+            "modifiedTime": 1550438364248,
+            "changeTime": 1550438364248,
+            "contentHash": "384a972462fde81e73175117ecdc791f0f447eb8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1550438364249,
+            "changeTime": 1550438364249,
+            "contentHash": "555ee7bd88d189b9ef381e5f732e92c7f66516b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1550438364249,
+            "changeTime": 1550438364249,
+            "contentHash": "17f39d3667425e543c3f25231fd397a70b4c3b9e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1550438364250,
+            "changeTime": 1550438364250,
+            "contentHash": "edc7848a5bfa75f14a6e69ef93874fda083d2d6e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1550438364250,
+            "changeTime": 1550438364250,
+            "contentHash": "70b0e8552bc33c67620059d19329d520a97ac4c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1550438364251,
+            "changeTime": 1550438364251,
+            "contentHash": "9329aa8a81fcb301652178deb8e75487ad0c4beb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1550438364251,
+            "changeTime": 1550438364251,
+            "contentHash": "ff7e7e4ced2ce57ee28410bc5d863342fb92fcdd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1550438364252,
+            "changeTime": 1550438364252,
+            "contentHash": "ef6483feeca8d8a846bd11841959ed7170e1b20e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1550438364252,
+            "changeTime": 1550438364252,
+            "contentHash": "9384f2c13a43a79de2909dc183d92bd6ca481311",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1550438364253,
+            "changeTime": 1550438364253,
+            "contentHash": "d259680afeb61a4c49142d0f2224bf4d2d865a63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1550438364253,
+            "changeTime": 1550438364253,
+            "contentHash": "7b674436fe553847f95a95be57b3e6303533c62d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1550438364254,
+            "changeTime": 1550438364254,
+            "contentHash": "8e69fc58b200cdbdbff3aead1334d5f8b5c822c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1550438364254,
+            "changeTime": 1550438364254,
+            "contentHash": "a348762e6f28525be0a04e0d0cefbeab5ce254ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 211,
+            "modifiedTime": 1550438364255,
+            "changeTime": 1550438364255,
+            "contentHash": "4967174bc7f968f24453f9b77a016534700b378f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 235,
+            "modifiedTime": 1550438364255,
+            "changeTime": 1550438364255,
+            "contentHash": "d2112777e8212058f308b2c21858daade2a69848",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1550438364256,
+            "changeTime": 1550438364256,
+            "contentHash": "b7d412be3216cb9efc01a1a73b1be18ada7a928e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1550438364256,
+            "changeTime": 1550438364256,
+            "contentHash": "dfad41aedec815c5c3dae8f8b8e0c6b5722420b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1550438364257,
+            "changeTime": 1550438364257,
+            "contentHash": "e34e032532c659aa07e7426065371878014e059c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1550438364257,
+            "changeTime": 1550438364257,
+            "contentHash": "b19da99a12a24159f0bb108f6ba8c50b1ee89310",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1550438364258,
+            "changeTime": 1550438364258,
+            "contentHash": "2a8a36584fa7d932be50778cf559524c9863e381",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1550438364258,
+            "changeTime": 1550438364258,
+            "contentHash": "ebd283f5e30908caead295aa176669c149556ebe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1550438364259,
+            "changeTime": 1550438364259,
+            "contentHash": "e4b36658d95bae01e002509243463bdd5ae80aa4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1550438364259,
+            "changeTime": 1550438364259,
+            "contentHash": "0e581720754872ad2e92c90974c4788885d6ff97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1550438364260,
+            "changeTime": 1550438364260,
+            "contentHash": "7771715ac34684248bb8bad4005b8b08dadd1d34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1550438364261,
+            "changeTime": 1550438364261,
+            "contentHash": "ba538aa4c66d16bbacefa53625bf602af4e668e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1550438364261,
+            "changeTime": 1550438364261,
+            "contentHash": "452910fd0cb411b693b016a50ba9b45a033a1432",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1550438364261,
+            "changeTime": 1550438364261,
+            "contentHash": "e593e0cf897ea2062937ca32f4e05d3b0a9ab456",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1550438364262,
+            "changeTime": 1550438364262,
+            "contentHash": "f1e64cc04ff71ec18a27ca56b85d13c54725a904",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1550438364262,
+            "changeTime": 1550438364262,
+            "contentHash": "17f1096442afb38477aaf2c160a11b9c64148b13",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\settings",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364263,
+            "changeTime": 1550438364263,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6570,
+            "modifiedTime": 1550438364263,
+            "changeTime": 1550438364263,
+            "contentHash": "b124325d9b44a8cc8f341b139573c40b32d482d7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX_Projects\\treegridsearch",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDX_Projects\\treegridsearch",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550438364264,
+            "changeTime": 1550438364264,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

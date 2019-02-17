@@ -44,9 +44,9 @@
 	expand : function(component,event,helper, level, name, isExpanded) {
 		var names = [];
 		var  dataRows = component.get('v.dataRows');		
-		// iternate over all rows
+		
 		for (var dataRow in dataRows) {        	
-			
+		
         	var dataRow = dataRows[dataRow];
         	for (var data in dataRow) {
         		if (dataRow[data].id === name) {
@@ -95,6 +95,7 @@
         }
         component.set('v.dataRows', dataRows);
 	},
+	// called when the user searches - highlight in yellow
 	search : function(component, event, helper, searchTerm, number) {
 		var found = 0;
 		var path = [];
@@ -148,6 +149,7 @@
 		component.set('v.dataRows', dataRows);
 
 	},
+	// clear out search results when the search box is blanked out
 	clearSearchResults : function(component, event, helper) {
 		var  dataRows = component.get('v.dataRows');
 		for (var dataRow in dataRows) {			    	
@@ -159,6 +161,7 @@
 	    component.set('v.dataRows', dataRows);
 	    component.set('v.displayMsg', false);
 	},
+	// recursivley search parents so they can be highlighted in green
 	searchId : function(component, event, helper, searchTerm, path) {
 		
 		console.log('searching for ' + searchTerm);
@@ -191,6 +194,7 @@
         resultsToast.setParams({ "title": title, "message": message , mode: mode, 'type' : type}); 
         resultsToast.fire(); 
 	},
+	// load the data into the grid by calling getData which then calls itself recursively
 	loadDataIntoGrid : function(component, event, helper) {
 		var dataRows = [];
 		var params = event.getParam('arguments');
@@ -204,7 +208,7 @@
 			for (var dataRow in dataRows) {			    	
 		    	var dataRow = dataRows[dataRow];
 		    	for (var data in dataRow) {
-		    		if (dataRow[data].level===1) {
+		    		if (dataRow[data].level === 1) {
 		    			dataRow[data].rendered=true;
 		    			dataRow[data].isExpanded=false;
 		    		}
